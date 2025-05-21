@@ -1,6 +1,7 @@
 # Decode With Showrin Rahman
 
-![Decode with Shpwrin.png]
+![Decode with Shpwrin](https://yourdomain.com/images/decode_with_shpwrin.png)
+
 
 # 📚 Python Tutorials Code Repository  
 
