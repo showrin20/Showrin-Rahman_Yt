@@ -1,6 +1,5 @@
 # Decode With Showrin Rahman
 
-![Decode with Shpwrin](The dark places.png)
 
 
 # 📚 Python Tutorials Code Repository  
