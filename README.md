@@ -1,6 +1,6 @@
 # Decode With Showrin Rahman
 
-![](Decode with Shpwrin.png)
+![Decode with Shpwrin.png]
 
 # 📚 Python Tutorials Code Repository  
 
